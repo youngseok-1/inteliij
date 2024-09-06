@@ -5,22 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db0ff59d-41dd-47a5-b5c6-454ae9bb8430" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;youngseok-1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/youngseok-1/inteliij.git&quot;,
+    &quot;accountId&quot;: &quot;d9599738-0cda-4322-baab-ae5a8a289490&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2lYD6xB3oxdToY9gEeYhGU9L9i5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -30,6 +48,12 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/seok/workspace/practice/intel/IntelPractice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/seok/workspace/practice/intel/IntelPractice/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -52,6 +76,10 @@
       <option name="presentableId" value="Default" />
       <updated>1725347944823</updated>
       <workItem from="1725347945815" duration="2000" />
+      <workItem from="1725426530291" duration="30000" />
+      <workItem from="1725438363131" duration="10000" />
+      <workItem from="1725439331682" duration="24000" />
+      <workItem from="1725496042498" duration="803000" />
     </task>
     <servers />
   </component>

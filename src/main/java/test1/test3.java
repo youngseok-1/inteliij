@@ -1,3 +1,5 @@
+package test1;
+
 public class test3 {
     public static void main(String[] args) {
         //         인조이조의 총합 점수를 계산하려고 한다. 최종점수가 정수(int)로 나오도록 만들어라 프로젝트퀄리티의 최고점은 D이다.
@@ -15,7 +17,7 @@ public class test3 {
 
         float project = (95.8f * 3);
         int project2 = (int)project;
-        System.out.println("프로젝트점수는 " +(project2) +"입니다.");
+        System.out.println("프로젝트점수는 " + (project2) +"입니다.");
 
 
         int score = (rank2 + quality2 +project2);

@@ -1,3 +1,5 @@
+package test1;
+
 public class test1 {
     public static void main(String[] args) {
         // 유니코드를 참고하여 'c' "Z"의 사칙연산을 표현해주세요

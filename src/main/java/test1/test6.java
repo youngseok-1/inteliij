@@ -1,3 +1,5 @@
+package test1;
+
 public class test6 {
     public static void main(String[] args) {
         /*
@@ -15,11 +17,17 @@ public class test6 {
         int annualBonus = (annual + bonus);
         System.out.println("연봉은" + (annualBonus) + "입니다.");
 
-        double duty = ( annualBonus * 3.3);
-        System.out.println("세금은" + ((int)duty) + "입니다.");
+        double duty = ( annualBonus * 3.3/100);
+        System.out.println("세금은" + ((long)(duty)) + "입니다.");
 
-        int ad = ((annualBonus - ((int)duty)) % 12);
-        System.out.println(ad);
+        int ad = ((annualBonus - ((int)duty)));
+        System.out.println("세후는" + (ad) + "입니다.");
+
+        int salary = (ad / 12);
+        System.out.println("월급은" + (salary) + "입니다.");
+
+        
+
 
 
 
