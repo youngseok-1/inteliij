@@ -44,7 +44,7 @@ public class Phone {
             System.out.println("휴대폰이 꺼져있거나 패턴이 잠겨있습니다.");
         } else {
             Person person = new Person();
-            person.runApp(this); // 어플 실행
+            person.runApp(this); // 어플 실행person.runApp(this); // 어플 실행
         }
     }
 
