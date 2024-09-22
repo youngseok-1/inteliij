@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db0ff59d-41dd-47a5-b5c6-454ae9bb8430" name="Changes" comment="">
+    <list default="true" id="db0ff59d-41dd-47a5-b5c6-454ae9bb8430" name="Changes" comment="20240914">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test0913/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test0913/Application1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +79,28 @@
       <workItem from="1725496042498" duration="803000" />
       <workItem from="1725949668134" duration="4000" />
       <workItem from="1726197239324" duration="61000" />
+      <workItem from="1726320778718" duration="143000" />
+      <workItem from="1726484971013" duration="583000" />
+      <workItem from="1726717583224" duration="15000" />
+      <workItem from="1726731271532" duration="8000" />
     </task>
+    <task id="LOCAL-00001" summary="20240914">
+      <option name="closed" value="true" />
+      <created>1726320805286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726320805286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20240914" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240914" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

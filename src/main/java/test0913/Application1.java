@@ -5,7 +5,7 @@ import java.util.Scanner;
     public class Application1 {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
-            System.out.print("피라미드의 높이를 입력하세요 (1~10): ");
+            System.out.print("피라미드의 높이를 입력하세요 : ");
             int height = sc.nextInt();
 
             for (int i = 1; i <= height; i++) {
