@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db0ff59d-41dd-47a5-b5c6-454ae9bb8430" name="Changes" comment="20240914">
+    <list default="true" id="db0ff59d-41dd-47a5-b5c6-454ae9bb8430" name="Changes" comment="20240929">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test0913/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test0913/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test0928/Application5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test0928/Application5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,12 +44,21 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2lYD6xB3oxdToY9gEeYhGU9L9i5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Gradle.IntelPractice [:Application3.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.IntelPractice [:Application4.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.IntelPractice [:Application5.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.IntelPractice [:test0913.Application2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.IntelPractice [:test0928.Application1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.IntelPractice [:test0928.Application2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.IntelPractice [:test0928.Application3.main()].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -59,8 +75,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -83,6 +99,9 @@
       <workItem from="1726484971013" duration="583000" />
       <workItem from="1726717583224" duration="15000" />
       <workItem from="1726731271532" duration="8000" />
+      <workItem from="1727515325587" duration="3520000" />
+      <workItem from="1727741113941" duration="318000" />
+      <workItem from="1727833721176" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="20240914">
       <option name="closed" value="true" />
@@ -92,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726320805286</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20240928">
+      <option name="closed" value="true" />
+      <created>1727517226921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727517226921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20240929">
+      <option name="closed" value="true" />
+      <created>1727618113861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727618113861</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +135,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20240914" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240914" />
+    <MESSAGE value="20240928" />
+    <MESSAGE value="20240929" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240929" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

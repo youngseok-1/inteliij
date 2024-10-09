@@ -14,4 +14,21 @@ public class Application5 {
             }
         }
 
+        int count = 0;
 
+        // 하얀 칸에 말이 있는 경우를 세기
+        for (int i = 0; i < 8; i++) {
+            for (int j = 0; j < 8; j++) {
+                // (i + j)가 짝수인 경우 하얀 칸
+                if ((i + j) % 2 == 0 && board[i][j] == 'F') {
+                    count++;
+                }
+            }
+        }
+
+        // 결과 출력
+        System.out.println("하얀 칸 위에 있는 말의 수: " + count);
+
+        scanner.close();
+    }
+}
