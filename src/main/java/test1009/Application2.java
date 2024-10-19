@@ -7,7 +7,7 @@ public class Application2 {
         Scanner scanner = new Scanner(System.in);
 
         // 1. 사용자 입력 받기
-        System.out.print("숫자를 입력하세요: ");
+        System.out.print("숫자를 입력하세요 : ");
         int userInput = scanner.nextInt();
 
         // 2. 배열 생성 (1~9까지의 값을 사용해 곱한 값)
@@ -17,7 +17,7 @@ public class Application2 {
         }
 
         // 3. 향상된 for문을 사용해 배열 출력
-        System.out.println("배열의 값:");
+        System.out.println("배열의 값 :");
         for (int value : resultArray) {
             System.out.print(value + " ");
         }
